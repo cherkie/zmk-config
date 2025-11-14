@@ -84,23 +84,23 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Page Up
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '0'
-  - {t: ▽, type: trans}
+  - Home
+  - ↑
+  - End
+  - BACKSPACE
+  - BACKSPACE
   - {t: ▽, type: trans}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
   - CLCK
+  - Page Down
   - ←
   - ↓
-  - ↑
   - →
   - ⌦
-  - $$mdi:backspace-outline$$
+  - ⌦
   - {t: ▽, type: trans}
   - UNDO
   - CUT
@@ -119,7 +119,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BACKSPACE
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
